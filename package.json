@@ -1,0 +1,29 @@
+{
+  "name": "pdw_04_miriamelizabethlagunavelazquez_0820",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "npm run live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliLV21/CSS_UDG_HOMEWORK.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EliLV21/CSS_UDG_HOMEWORK/issues"
+  },
+  "homepage": "https://github.com/EliLV21/CSS_UDG_HOMEWORK#readme",
+  "dependencies": {
+    "gulp-browserify": "^0.5.1",
+    "gulp-cli": "^2.3.0",
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.27.5",
+    "gulp": "^4.0.2"
+  }
+}
