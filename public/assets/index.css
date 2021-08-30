@@ -15,6 +15,17 @@ body {
     top: 0;
 }
 
+.ref-style{
+    margin: 0;
+    font-size: 12px;
+}
+
+.ref-style a{
+    color:darkred;
+    cursor: pointer;
+    text-decoration: none;
+}
+
 #header-list {
     list-style: none;
     width: 70%;
@@ -47,7 +58,7 @@ body {
 .container-content {
     width: 70%;
     padding: 0 20px;
-    margin: 8% 15%;
+    margin: 9.5% 15% 3% 15%;
 }
 
 .principal-video-content {
@@ -92,7 +103,7 @@ footer {
 }
 
 .img-cont-ubi {
-    width: 30%;
+    width: 50%;
 }
 
 .data-hist {
@@ -101,7 +112,11 @@ footer {
     text-align: justify;
 }
 
-.img-hist {
+.form-margin{
+    margin-top: 10%;
+}
+
+.img-data {
     width: 90%;
     height: auto;
     border-radius: 5px;
@@ -133,6 +148,10 @@ footer {
 
 .txt-right {
     text-align: end;
+}
+
+.txt-left{
+    text-align: start;
 }
 
 .txt-underline {
